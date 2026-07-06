@@ -1,0 +1,38 @@
+UI_RU = {
+    UI_HoodArmor_Upgrade = "Улучшить капот (Броня)",
+    UI_HoodArmor_Planks = "Досками (20 ударов)",
+    UI_HoodArmor_Sheet1 = "Железным листом (30 ударов)",
+    UI_HoodArmor_Sheet2 = "Двумя листами (50 ударов)",
+    UI_HoodArmor_Req = "Требуется:<br>",
+    UI_HoodArmor_Hammer = "Молоток",
+    UI_HoodArmor_Planks2 = "Доски (2)",
+    UI_HoodArmor_Nails4 = "Гвозди (4)",
+    UI_HoodArmor_Blowtorch = "Газовая горелка",
+    UI_HoodArmor_Mask = "Маска сварщика",
+    UI_HoodArmor_Sheet1_Item = "Металлический лист (1)",
+    UI_HoodArmor_Sheet2_Item = "Металлический лист (2)",
+    UI_HoodArmor_Skill1 = "Газосварка (Ур. 1)",
+    UI_HoodArmor_Skill2 = "Газосварка (Ур. 2)",
+    UI_HoodArmor_Success = "Капот укреплен! (Уровень %1)",
+    UI_HoodArmor_Broken = "Броня капота разрушена!",
+    
+    UI_PryTrunk = "Взломать багажник (Монтировка)",
+    UI_PrySuccess = "Замок поддался!",
+    UI_PryFail = "Проклятье, замок слишком крепкий...",
+    
+    UI_ChargeBattery = "Прикурить аккумулятор",
+    UI_ChargeSuccess = "Заряд перенесен!",
+    UI_ChargeFail = "Запасной аккумулятор пуст или машина заряжена.",
+
+    UI_DeepScrap = "Разобрать кузов на детали",
+    UI_DeepScrap_Req = "Требуется:<br>",
+    UI_DeepScrap_Book = "Прочитаны 'Курсы газосварки Том 1' (Или Сварка 1+)",
+    UI_DeepScrap_Success = "Машина полностью разобрана на запчасти!",
+    
+    UI_ReinforceVeh = "Глобальное укрепление машины",
+    UI_ReinforceVeh_Req = "Требуется:<br>",
+    UI_ReinforceVeh_Parts = "Специальная автозапчасть (5)",
+    UI_ReinforceVeh_Skill = "Газосварка (Ур. 3)",
+    UI_ReinforceVeh_Success = "Машина полностью укреплена! Каждая деталь защищена.",
+	UI_TurnKey = "ПОВОРОТ",
+}

@@ -1,0 +1,37 @@
+UI_EN = {
+    UI_HoodArmor_Upgrade = "Upgrade Hood (Armor)",
+    UI_HoodArmor_Planks = "Wooden Planks (20 hits)",
+    UI_HoodArmor_Sheet1 = "Metal Sheet (30 hits)",
+    UI_HoodArmor_Sheet2 = "Double Metal Sheets (50 hits)",
+    UI_HoodArmor_Req = "Requirements:<br>",
+    UI_HoodArmor_Hammer = "Hammer",
+    UI_HoodArmor_Planks2 = "Planks (2)",
+    UI_HoodArmor_Nails4 = "Nails (4)",
+    UI_HoodArmor_Blowtorch = "Blowtorch",
+    UI_HoodArmor_Mask = "Welding Mask",
+    UI_HoodArmor_Sheet1_Item = "Metal Sheet (1)",
+    UI_HoodArmor_Sheet2_Item = "Metal Sheet (2)",
+    UI_HoodArmor_Skill1 = "Metalwelding (Lvl 1)",
+    UI_HoodArmor_Skill2 = "Metalwelding (Lvl 2)",
+    UI_HoodArmor_Success = "Hood reinforced! (Level %1)",
+    UI_HoodArmor_Broken = "Hood armor destroyed!",
+    
+    UI_PryTrunk = "Pry Trunk (Crowbar)",
+    UI_PrySuccess = "The lock gave way!",
+    UI_PryFail = "Damn, the lock is too strong...",
+    
+    UI_ChargeBattery = "Jumpstart Battery",
+    UI_ChargeSuccess = "Charge transferred!",
+    UI_ChargeFail = "Spare battery is empty or vehicle is charged.",
+
+    UI_DeepScrap = "Scrap Vehicle Body",
+    UI_DeepScrap_Req = "Requirements:<br>",
+    UI_DeepScrap_Book = "Read 'The Metalworking Mag. Vol. 1' (Or Welding 1+)",
+    UI_DeepScrap_Success = "Vehicle completely scrapped for parts!",
+    
+    UI_ReinforceVeh = "Global Vehicle Reinforcement",
+    UI_ReinforceVeh_Req = "Requirements:<br>",
+    UI_ReinforceVeh_Parts = "Special Engine Part (5)",
+    UI_ReinforceVeh_Skill = "Metalwelding (Lvl 3)",
+    UI_ReinforceVeh_Success = "Vehicle fully reinforced! Every part is protected.",
+}

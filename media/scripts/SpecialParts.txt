@@ -1,0 +1,10 @@
+module Base
+{
+    item SpecialEnginePart
+    {
+        Type = Normal,
+        DisplayName = Специальная автозапчасть,
+        Icon = EngineParts,
+        Weight = 2.0,
+    }
+}
